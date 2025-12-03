@@ -1,0 +1,31 @@
+producto,ventas_total,unidades_vendidas,inversion_total,campañas,ticket_medio,ROAS,segmento_ventas
+Lámpara de mesa,82276.38,1112.0,15.93,3,73.99,5164.87,Muy Alto
+Auriculares,74175.58,958.0,15.24,3,77.43,4867.16,Muy Alto
+Microondas,72562.89,912.0,14.190000000000001,3,79.56,5113.66,Muy Alto
+Cafetera,59607.31,765.0,18.16,3,77.92,3282.34,Muy Alto
+Cuadro decorativo,54297.6,726.0,15.85,3,74.79,3425.72,Muy Alto
+Smartphone,54132.44,665.0,15.8,3,81.4,3426.1,Muy Alto
+Secadora,52115.45,696.0,14.59,3,74.88,3572.0,Alto
+Jarrón decorativo,51130.88,672.0,13.27,3,76.09,3853.12,Alto
+Batidora,50979.2,672.0,15.280000000000001,3,75.86,3336.34,Alto
+Rincón de plantas,50456.45,691.0,16.45,3,73.02,3067.26,Alto
+Freidora eléctrica,50155.15,630.0,13.559999999999999,3,79.61,3698.76,Alto
+Aspiradora,50085.86,651.0,16.46,3,76.94,3042.88,Alto
+Horno eléctrico,49913.9,633.0,13.89,3,78.85,3593.51,Medio
+Lavadora,48946.44,671.0,11.85,3,72.95,4130.5,Medio
+Proyector,48187.0,626.0,12.47,3,76.98,3864.23,Medio
+Adorno de pared,48093.49,633.0,14.05,3,75.98,3423.02,Medio
+SmartWatch,47836.86,620.0,14.5,3,77.16,3299.09,Medio
+Parlantes Bluetooth,47779.46,660.0,13.370000000000001,3,72.39,3573.63,Medio
+Televisor,47038.04,632.0,13.13,3,74.43,3582.49,Bajo
+Espejo decorativo,46783.31,635.0,14.89,3,73.67,3141.93,Bajo
+Laptop,46179.48,617.0,15.19,3,74.85,3040.12,Bajo
+Consola de videojuegos,46174.409999999996,623.0,12.77,3,74.12,3615.85,Bajo
+Elementos de cerámica,45411.09,636.0,16.87,3,71.4,2691.83,Bajo
+Cámara digital,45217.96,638.0,16.4,3,70.87,2757.19,Bajo
+Plancha de vapor,45196.63,632.0,14.120000000000001,3,71.51,3200.89,Muy Bajo
+Cortinas,44865.03,610.0,17.36,3,73.55,2584.39,Muy Bajo
+Alfombra,44773.06,615.0,17.46,3,72.8,2564.32,Muy Bajo
+Tablet,25856.57,374.0,12.72,3,69.14,2032.75,Muy Bajo
+Heladera,25736.8,330.0,13.11,3,77.99,1963.14,Muy Bajo
+Candelabro,11128.800000000001,160.0,14.65,3,69.56,759.65,Muy Bajo
